@@ -1,4 +1,4 @@
-# Vue3RFsinNuxt2
+# Nuxt2 Starter with Tailwind & TypeScript
 
 ## Build Setup
 
